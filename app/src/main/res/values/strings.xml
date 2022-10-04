@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Third Thrusday Trivia</string>
+    <string name="res1">Restaurant1</string>
+    <string name="res2">Restaurant2</string>
+    <string name="res3">Restaurant3</string>
+    <string name="res4">Restaurant4</string>
+    <string name="res5">Restaurant5</string>
+    <string name="res6">Restaurant6</string>
+
+    <string name="menu1">Gujarati,Thali,Khandvi,Handavo,Khaman,Khichu</string>
+    <string name="menu2">Dabeli,Fafda,Khakhra,Ganthiya</string>
+    <string name="menu3">Chicken confit,French onion soup</string>
+    <string name="menu4">Bouillabaisse,Salmon en papillote</string>
+    <string name="menu5">Patra,Lilo Chevdo,Gujarati Dal,Undhiyu</string>
+    <string name="menu6">Khaman,Khichu,Gujarati Dal,Undhiyu</string>
+
+    <string name="price1">400</string>
+    <string name="price2">249</string>
+    <string name="price3">300</string>
+    <string name="price4">500</string>
+    <string name="price5">600</string>
+    <string name="price6">450</string>
+
+    <string name="rating1">4.1</string>
+    <string name="rating2">4.5</string>
+    <string name="rating3">3.0</string>
+    <string name="rating4">4.7</string>
+    <string name="rating5">3.5</string>
+    <string name="rating6">3.0</string>
+
+
+
+
+</resources>
